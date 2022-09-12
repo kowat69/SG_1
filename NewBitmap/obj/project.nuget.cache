@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "UH/2J7iJr6pKmEFnkY25nsEL0KJryDHaL8tJ32vXIykKHU2Mkgk46NB98o8xnBsHHKyz7VIwdgOefTKi6vBzxw==",
+  "success": true,
+  "projectFilePath": "C:\\Programming\\csharp\\sg\\NewBitmap\\NewBitmap.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kowat\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\kowat\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

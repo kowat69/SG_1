@@ -1,0 +1,12 @@
+C:\Programming\csharp\sg\NewBitmap\bin\Debug\net6.0\NewBitmap.deps.json
+C:\Programming\csharp\sg\NewBitmap\bin\Debug\net6.0\NewBitmap.dll
+C:\Programming\csharp\sg\NewBitmap\bin\Debug\net6.0\NewBitmap.pdb
+C:\Programming\csharp\sg\NewBitmap\obj\Debug\net6.0\NewBitmap.csproj.AssemblyReference.cache
+C:\Programming\csharp\sg\NewBitmap\obj\Debug\net6.0\NewBitmap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\csharp\sg\NewBitmap\obj\Debug\net6.0\NewBitmap.AssemblyInfoInputs.cache
+C:\Programming\csharp\sg\NewBitmap\obj\Debug\net6.0\NewBitmap.AssemblyInfo.cs
+C:\Programming\csharp\sg\NewBitmap\obj\Debug\net6.0\NewBitmap.csproj.CoreCompileInputs.cache
+C:\Programming\csharp\sg\NewBitmap\obj\Debug\net6.0\NewBitmap.dll
+C:\Programming\csharp\sg\NewBitmap\obj\Debug\net6.0\refint\NewBitmap.dll
+C:\Programming\csharp\sg\NewBitmap\obj\Debug\net6.0\NewBitmap.pdb
+C:\Programming\csharp\sg\NewBitmap\obj\Debug\net6.0\ref\NewBitmap.dll
