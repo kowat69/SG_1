@@ -1,0 +1,12 @@
+C:\Programming\csharp\sg\sgDebug\bin\Debug\net6.0\sgDebug.deps.json
+C:\Programming\csharp\sg\sgDebug\bin\Debug\net6.0\sgDebug.dll
+C:\Programming\csharp\sg\sgDebug\bin\Debug\net6.0\sgDebug.pdb
+C:\Programming\csharp\sg\sgDebug\obj\Debug\net6.0\sgDebug.csproj.AssemblyReference.cache
+C:\Programming\csharp\sg\sgDebug\obj\Debug\net6.0\sgDebug.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\csharp\sg\sgDebug\obj\Debug\net6.0\sgDebug.AssemblyInfoInputs.cache
+C:\Programming\csharp\sg\sgDebug\obj\Debug\net6.0\sgDebug.AssemblyInfo.cs
+C:\Programming\csharp\sg\sgDebug\obj\Debug\net6.0\sgDebug.csproj.CoreCompileInputs.cache
+C:\Programming\csharp\sg\sgDebug\obj\Debug\net6.0\sgDebug.dll
+C:\Programming\csharp\sg\sgDebug\obj\Debug\net6.0\refint\sgDebug.dll
+C:\Programming\csharp\sg\sgDebug\obj\Debug\net6.0\sgDebug.pdb
+C:\Programming\csharp\sg\sgDebug\obj\Debug\net6.0\ref\sgDebug.dll
