@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sg_main", "sg_main\sg_main.csproj", "{8945C24B-3CD5-497F-9BB1-3489E0C4853E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewBitmap", "NewBitmap\NewBitmap.csproj", "{BAB22074-ED0C-4D47-A6FF-0A0DB31A19BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sgDebug", "sgDebug\sgDebug.csproj", "{9BBE266B-502A-4377-8194-A58927EB8D09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8945C24B-3CD5-497F-9BB1-3489E0C4853E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8945C24B-3CD5-497F-9BB1-3489E0C4853E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8945C24B-3CD5-497F-9BB1-3489E0C4853E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8945C24B-3CD5-497F-9BB1-3489E0C4853E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAB22074-ED0C-4D47-A6FF-0A0DB31A19BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAB22074-ED0C-4D47-A6FF-0A0DB31A19BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAB22074-ED0C-4D47-A6FF-0A0DB31A19BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAB22074-ED0C-4D47-A6FF-0A0DB31A19BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BBE266B-502A-4377-8194-A58927EB8D09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BBE266B-502A-4377-8194-A58927EB8D09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BBE266B-502A-4377-8194-A58927EB8D09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BBE266B-502A-4377-8194-A58927EB8D09}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
